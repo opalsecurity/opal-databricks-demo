@@ -131,7 +131,6 @@ After running all notebooks, the following Delta tables will be available in you
 - [Opal API Documentation](https://docs.opal.dev)
 - [Opal + Databricks Blog Post](https://opal.dev/blog) *(link to published post)*
 - [Databricks Secrets Documentation](https://docs.databricks.com/aws/en/security/secrets/)
-- [Databricks Genie](https://docs.databricks.com/aws/en/genie/)
 - [Opal Security](https://opal.dev)
 
 ---
