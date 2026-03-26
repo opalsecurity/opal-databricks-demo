@@ -1,4 +1,4 @@
-# Opal + Databricks Solution Accelerator
+# Opal + Databricks Notebooks
 
 > Extend Opal's identity governance capabilities with advanced analytics, AI, and large-scale data enrichment using Databricks.
 
